@@ -1,5 +1,5 @@
-import { Breakpoints } from "./breakpoints/breakpoints.interfaces"
+import { Breakpoints } from './breakpoints/breakpoints.interfaces';
 
 export interface Theme {
-  breakpoints: Breakpoints
+  breakpoints: Breakpoints;
 }

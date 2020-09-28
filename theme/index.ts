@@ -1,8 +1,8 @@
-import { breakpoints } from "./breakpoints/breakpoints"
-import { Theme } from "./theme.interface"
+import { breakpoints } from './breakpoints/breakpoints';
+import { Theme } from './theme.interface';
 
 const theme: Theme = {
-  breakpoints,
-}
+  breakpoints
+};
 
-export default theme
+export default theme;

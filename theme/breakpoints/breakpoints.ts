@@ -1,5 +1,5 @@
-import { Breakpoints } from "./breakpoints.interfaces"
-import { between, down, keys, only, up, values, width } from "./utils"
+import { Breakpoints } from './breakpoints.interfaces';
+import { between, down, keys, only, up, values, width } from './utils';
 
 export const breakpoints: Breakpoints = {
   between,
@@ -8,5 +8,5 @@ export const breakpoints: Breakpoints = {
   only,
   up,
   values,
-  width,
-}
+  width
+};
